@@ -8,6 +8,7 @@ public class DemoPageApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoPageApplication.class, args);
+		System.out.println("==============SERVER STARTED=============");
 	}
 
 }
